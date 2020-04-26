@@ -9,17 +9,33 @@ in Python3 under macOS Catalina
 
 ## Categories of basic algorithms
 
-- [] Iteration and Recursion
-- [] BFS (Breadth First Search)
-- [] Binary Search
+- [ ] Brute Force
+- [ ] BFS (Breadth First Search)
+- [ ] Binary Search
+- [ ] Divide and Conquer
+- [ ] DFS (Depth First Search)
+
+## Common Data Structure
+
+- Tree
+- Graph
+- Stack
+- Heap
+- Linked Lists
+- Queue
+- Hash Map
 
 ## List of interesting algorithms
 
 - Newton's method for finding square root of a number (Pure math from numberical anlaysis)
+- Manacher's Algorithm for finding Longest Palindromic Substring
+- Tarjan's Algorithm for Offline Lowest Comon Ancester (LCA)
+- SegmentTree for Online LCA
+- Morris for PreOrder Traversal
 
 ## Run all solutions
 
-https://repl.it/github/soleo/code-challenges
+<https://repl.it/github/soleo/code-challenges>
 
 ## Sources of the problems
 
