@@ -5,7 +5,7 @@ in Python3 under macOS Catalina
 
 ## Requirements
 
-- Python3
+- Python 3
 
 ## Categories of basic algorithms
 
@@ -21,9 +21,10 @@ in Python3 under macOS Catalina
 - Graph
 - Stack
 - Heap
-- Linked Lists
+- Linked List
 - Queue
 - Hash Map
+- Trie
 
 ## List of interesting algorithms
 
@@ -32,6 +33,9 @@ in Python3 under macOS Catalina
 - Tarjan's Algorithm for Offline Lowest Comon Ancester (LCA)
 - SegmentTree for Online LCA
 - Morris for PreOrder Traversal
+- Traveling Sales Man's Prolem
+- Hamming Distance for Fuzzy Word Matching
+- Huffman coding for text compression
 
 ## Run all solutions
 
